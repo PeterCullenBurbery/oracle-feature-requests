@@ -1,2 +1,2 @@
-# bsd4-template
-This is a template repository with the BSD 4 license.
+# oracle-feature-requests
+Feature requests for Oracle.
